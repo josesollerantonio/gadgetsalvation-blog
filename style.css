@@ -1,0 +1,20 @@
+/*!
+Theme Name: Gadgetsalvation Blog
+Theme URI: https://www.gadgetsalvation.com/blog/
+Author: Jose
+Author URI: https://www.gadgetsalvation.com
+Description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Distinctio, recusandae, officia fuga labore dolor mollitia voluptate beatae magnam aliquam quaerat accusantium harum odit magni ut at aspernatur incidunt possimus obcaecati.
+Version: 1.0
+License: GNU General Public License v2 or later
+License URI: https://www.gnu.org/licenses/gpl-2.0.html
+Tags: blog, e-commerce
+Text Domain: gadgetsalvation
+*/
+
+@import url("assets/css/header/header.css");
+
+@import url("assets/css/home/base.css");
+
+@import url("assets/css/footer/footer.css");
+
+@import url("assets/css/blog-section/search-blog.css");

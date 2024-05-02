@@ -1,0 +1,10 @@
+/*variables*/
+:root {
+    --primary-color: #000000;
+    --secondary-color: #5B26ED;
+    --tertiary-color: #26EF7A;
+    --primary-background: #F5F2FE;
+    --secondary-backgroudn: #DED4FB;
+    --weight-regular: 300;
+    --weight-bold: 700;
+}

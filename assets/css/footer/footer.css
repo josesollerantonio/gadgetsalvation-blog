@@ -1,0 +1,11 @@
+.footer-container {
+    background: #0d0d0d;
+    border-top-left-radius: 42px;
+    border-top-right-radius: 42px;
+}
+.footer-wrapper {
+    margin: auto;
+    width: 100%;
+    max-width: 1000px;
+    padding: 30px 15px;
+}
